@@ -20,7 +20,7 @@ API密钥已添加到您的 `~/.zshrc` 文件中：
 
 ```bash
 # Google AI API Key for PPT Generator
-export GEMINI_API_KEY="AIzaSyAfHE4vctPhMF2mVn96aEZZp8WuURlaGpM"
+export GEMINI_API_KEY="your-api-key-here"
 ```
 
 **验证方法**：
